@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is r2 file in main branch
+=======
+file r2 is created in fb branch
+>>>>>>> e8f6fb0 (r2 is added in fb)
